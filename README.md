@@ -1,4 +1,4 @@
-# SusieR (without coloc) for PTER 
+# susieR (without coloc) for PTER 
 
 I tried this out and am puzzled by the results. 
 
